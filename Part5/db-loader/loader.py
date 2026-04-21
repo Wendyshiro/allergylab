@@ -15,6 +15,7 @@ for attempt in range(5, 0, -1):
         print(f"failed to connect due to {type(e)}, {attempt} retries left")
         time.sleep(5)
 
+
 while True:
     try:
         # Find all the CSV files in a directory and loop through them

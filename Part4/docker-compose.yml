@@ -17,6 +17,6 @@ services:
       depends_on:
         - redis-server
       environment:
-        TO_ADDRESS: <your Quantic email>
-        FROM_ADDRESS: <new Gmail email>
-        FROM_PASSWORD: <Gmail app password>
+        TO_ADDRESS: waweruwendy61@gmail.com
+        FROM_ADDRESS: wendywanjiru18@gmail.com
+        FROM_PASSWORD: zbse socq oclv xnca
